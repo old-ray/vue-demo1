@@ -17,6 +17,7 @@ export default{
                 nickName:""
             }
         }
+        
     },
     methods:{
         addUser:function(){
