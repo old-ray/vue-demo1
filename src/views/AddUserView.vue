@@ -17,7 +17,7 @@ export default{
                 nickName:""
             }
         }
-        
+        //测试
     },
     methods:{
         addUser:function(){
